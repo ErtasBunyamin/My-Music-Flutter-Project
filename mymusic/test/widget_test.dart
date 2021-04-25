@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:mymusic/main.dart';
+import 'file:///C:/Users/bunya/Desktop/Projects/GitProject/My-Music-Flutter-Project/mymusic/lib/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
